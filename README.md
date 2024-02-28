@@ -51,3 +51,11 @@ To run the Decentralized Professional Networking Platform locally, follow these 
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## Our team
+
+Group: SE-2230
+
+- Yernar Yeskindirov
+- Shakhzod Guprakhunov
+- Azamat Yessimkhan 
