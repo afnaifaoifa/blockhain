@@ -1,5 +1,3 @@
-# web3linkedIn
-
 # Decentralized Professional Networking Platform
 
 Welcome to the Decentralized Professional Networking Platform, a web3 application built on the Ethereum blockchain and Solidity smart contracts. This platform allows users to create profiles, connect with other professionals, and showcase their skills and experiences in a decentralized and secure manner.
@@ -20,21 +18,6 @@ Welcome to the Decentralized Professional Networking Platform, a web3 applicatio
 - **Main Page**: Serves as the main hub where users can navigate to different sections of the platform.
 - **User Profile Page**: Each user has a profile page displaying basic information, avatar, address, and tokens. Additionally, users can add friends and manage friend requests from this page.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
@@ -44,12 +27,14 @@ To run the Decentralized Professional Networking Platform locally, follow these 
 
 1. Clone the repository: `git clone <repository-url>`
 2. Install dependencies: `npm install`
-3. Start the application: `npm start`
-4. Access the application at `http://localhost:3000`
+3. Compiles and hot-reloads for development: `npm run serve`
+4. Compiles and minifies for production: `npm run build`
+5. Access the application at `http://localhost:8080`
 
 ## Technologies Used
 
 - Ethereum Blockchain
+- Sepolia
 - Solidity Smart Contracts
 - Web3.js
 - Vue/JavaScript
